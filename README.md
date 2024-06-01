@@ -1,6 +1,6 @@
 # Cherries Nav
 
-Demo: https://yintao.happyfou.com
+Demo: https://yt.happyfou.com
 ## Getting Started
 
 First, run the development server:
