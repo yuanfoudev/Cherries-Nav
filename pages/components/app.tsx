@@ -33,7 +33,7 @@ export default function App() {
                 </Navbar.Content>
                 <Navbar.Content>
                     <Navbar.Item>
-                        <Link href="https://github.com/sponsors/forecho" target="_blank" rel="noopener noreferrer">
+                        <Link href="/zanshang.jpg" target="_blank" rel="noopener noreferrer">
                             <Button auto color={color} href="#" icon={<HeartIcon/>}>
                                 Sponsor
                             </Button>

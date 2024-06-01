@@ -1,14 +1,14 @@
 {
   "logo": "",
-  "keywords": "设计师，资源导航",
-  "favicon": "https://afterwork-design.github.io/castalia/castalia-s.png",
+  "keywords": "资源,导航，工具",
+  "favicon": "/favicon.ico",
   "seo": {
-    "title": "Cherries",
-    "description": "最全的网站资源"
+    "title": "樱桃礼盒",
+    "description": "一个助力内容创作者发挥个人潜力的地方"
   },
   "banner": {
-    "title": "一个资源导航网站",
-    "subtitle": "精选国内外优质网站，让每个人都能找到自己需要的资源"
+    "title": "帮你探索创作的边界",
+    "subtitle": "所有内容站点均可直接访问"
   },
   "navItems": [
     {
@@ -22,10 +22,6 @@
     {
       "name": "英语学习",
       "url": "#英语学习"
-    },
-    {
-      "name": "Github",
-      "url": "https://github.com/forecho/cherries"
     }
   ]
 }
